@@ -1,0 +1,51 @@
+# Arquivos do Sistema Windows
+desktop.ini
+Thumbs.db
+*.tmp
+*.temp
+
+# Arquivos do MATLAB/Octave
+*.asv
+*.mex*
+*.p
+*.slx.autosave
+*.slx.original
+slprj/
+work/
+*.mat
+octave-workspace
+
+# Arquivos de compilação
+*.exe
+*.dll
+*.so
+*.dylib
+*.o
+*.obj
+
+# Arquivos de log e debug
+*.log
+*.out
+
+# Pastas de dependências e build
+node_modules/
+build/
+dist/
+target/
+
+# Arquivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Arquivos de backup
+*.bak
+*.backup
+*_backup.*
+
+# Arquivos temporários de Office
+~$*
+*.tmp
+*.temp
